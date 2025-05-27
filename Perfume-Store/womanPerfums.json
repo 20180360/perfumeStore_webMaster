@@ -1,0 +1,195 @@
+{
+  "womenPerfumes": [
+    {
+      "id": 1,
+      "name": "Chanel No. 5",
+      "brand": "Chanel",
+      "price": 120,
+      "stock":"Only 3 items in stock!",
+      "image": "/images/women/chanel_no5.jpg",
+      "description": "A timeless floral-aldehyde fragrance with a touch of sophistication."
+    },
+    {
+      "id": 2,
+      "name": "Daisy",
+      "brand": "Marc Jacobs",
+      "price": 85,
+       "stock":"Only 5 items in stock!",
+      "image": "/images/women/daisy.jpg",
+      "description": "Fresh and feminine with notes of wild berries and white violets."
+    },
+    {
+      "id": 3,
+      "name": "Good Girl",
+      "brand": "Carolina Herrera's",
+      "price": 95,
+      "stock":"Only 2 items in stock!",
+      "image": "/images/women/Goodgirl.webp",
+      "description": "A sweet and floral scent with iris, patchouli, and gourmand accords."
+    },
+    {
+      "id": 4,
+      "name": "Light Blue",
+      "brand": "Dolce & Gabbana",
+      "price": 88,
+       "stock":"Only 6 items in stock!",
+      "image": "/images/women/lightblue.jpg",
+      "description": "Crisp and citrusy with Sicilian lemon and cedarwood."
+    },
+    {
+      "id": 5,
+      "name": "Black Opium",
+      "brand": "Yves Saint Laurent",
+      "price": 110,
+       "stock":"Only 16 items in stock!",
+      "image": "/images/women/blackopium.webp",
+      "description": "A bold blend of coffee, vanilla, and white flowers."
+    },
+    {
+      "id": 6,
+      "name": "Flowerbomb",
+      "brand": "Viktor & Rolf",
+      "price": 115,
+       "stock":"Only 26 items in stock!",
+      "image": "/images/women/flowerbomb.jpeg",
+      "description": "Explosive floral bouquet with hints of patchouli and bergamot."
+    },
+    {
+      "id": 7,
+      "name": "Si",
+      "brand": "Giorgio Armani",
+      "price": 100,
+       "stock":"Only 5 items in stock!",
+      "image": "/images/women/si.webp",
+      "description": "Elegant and modern with blackcurrant nectar and rose."
+    },
+    
+    {
+      "id": 9,
+      "name": "Chloé Eau de Parfum",
+      "brand": "Chloé",
+      "price": 105,
+       "stock":"Only 10 items in stock!",
+      "image": "/images/women/chloe.jpg",
+      "description": "Fresh and feminine with peony, rose, and magnolia."
+    },
+    {
+      "id": 10,
+      "name": "Gucci Bloom",
+      "brand": "Gucci",
+      "price": 108,
+       "stock":"Only 2 items in stock!",
+      "image": "/images/women/guccibloom.webp",
+      "description": "A garden-inspired scent with tuberose and jasmine."
+    },
+    {
+      "id": 11,
+      "name": "Miss Dior",
+      "brand": "Dior",
+      "price": 112,
+       "stock":"Only 5 items in stock!",
+      "image": "/images/women/missdior.jpeg",
+      "description": "Romantic and fresh with rose, citrus, and musk."
+    },
+    {
+      "id": 12,
+      "name": "Mon Paris",
+      "brand": "YSL",
+      "price": 95,
+       "stock":"Only 3 items in stock!",
+      "image": "/images/women/monparis.jpg",
+      "description": "A sweet fruity floral fragrance with strawberry and white musk."
+    },
+    {
+      "id": 13,
+      "name": "The One",
+      "brand": "Dolce & Gabbana",
+      "price": 99,
+       "stock":"Only 1 items in stock!",
+      "image": "/images/women/theone.webp",
+      "description": "Warm and oriental with vanilla and amber."
+    },
+    {
+      "id": 14,
+      "name": "Armani My Way",
+      "brand": "Armani",
+      "price": 102,
+       "stock":"Only 9 items in stock!",
+      "image": "/images/women/myway.jpeg",
+      "description": "Floral notes of tuberose and jasmine with warm vanilla."
+    },
+    {
+      "id": 15,
+      "name": "Idôle",
+      "brand": "Lancôme",
+      "price": 98,
+       "stock":"Only 2 items in stock!",
+      "image": "/images/women/idole.jpeg",
+      "description": "Clean and radiant floral scent with rose and pear."
+    },
+   
+    {
+      "id": 18,
+      "name": "Pure XS For Her",
+      "brand": "Paco Rabanne",
+      "price": 90,
+       "stock":"Only 3 items in stock!",
+      "image": "/images/women/purexs.webp",
+      "description": "Sultry blend of popcorn, vanilla, and ylang-ylang."
+    },
+    {
+      "id": 20,
+      "name": "Good Girl",
+      "brand": "Carolina Herrera",
+      "price": 115,
+       "stock":"Only 4 items in stock!",
+      "image": "/images/women/goodgirlred.jpeg",
+      "description": "Bold contrast of jasmine and cocoa."
+    },
+    {
+      "id": 21,
+      "name": "Versace Bright Crystal",
+      "brand": "Versace",
+      "price": 87,
+       "stock":"Only 5 items in stock!",
+      "image": "/images/women/brightcrystal.jpg",
+      "description": "Fresh and luminous with pomegranate and lotus flower."
+    },
+    {
+      "id": 22,
+      "name": "Olympéa",
+      "brand": "Paco Rabanne",
+      "price": 101,
+       "stock":"Only 6 items in stock!",
+      "image": "/images/women/olympea.webp",
+      "description": "Sensual vanilla and salted amber accord."
+    },
+    {
+      "id": 23,
+      "name": "Elie Saab Le Parfum",
+      "brand": "Elie Saab",
+      "price": 95,
+       "stock":"Only 3 items in stock!",
+      "image": "/images/women/eliesaab.jpg",
+      "description": "Elegant orange blossom with honey and patchouli."
+    },
+    {
+      "id": 24,
+      "name": "Narciso Rodriguez For Her",
+      "brand": "Narciso Rodriguez",
+      "price": 103,
+       "stock":"Only 5 items in stock!",
+      "image": "/images/women/narciso.jpeg",
+      "description": "Soft musky floral with peach and amber."
+    },
+    {
+      "id": 25,
+      "name": "Guerlain Mon Guerlain",
+      "brand": "Guerlain",
+      "price": 120,
+       "stock":"Only 6 items in stock!",
+      "image": "/images/women/mon_guerlain.jpg",
+      "description": "Elegant and fresh with lavender, jasmine, and sandalwood."
+    }
+  ]
+}

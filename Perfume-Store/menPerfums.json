@@ -1,0 +1,147 @@
+{"menPerfumes":[
+  {
+    "id": 30,
+    "name": "Bleu de Chanel",
+    "brand": "Chanel",
+    "price": 125.00,
+    "size": "100ml",
+    "stock":"Only 3 items in stock!",
+    "type": "Eau de Parfum",
+    "image": "/images/men/bleu-de-chanel.jpeg",
+    "description": "A bold and woody fragrance with notes of citrus and sandalwood."
+  },
+  {
+    "id": 31,
+    "name": "Dior Sauvage",
+    "brand": "Dior",
+    "price": 110.00,
+    "size": "100ml",
+    "stock":"Only 5 items in stock!",
+    "type": "Eau de Toilette",
+    "image": "/images/men/dior-sauvage.webp",
+    "description": "A fresh and spicy scent inspired by wide-open spaces."
+  },
+  {
+    "id": 33,
+    "name": "Acqua di Giò",
+    "brand": "Giorgio Armani",
+    "price": 95.00,
+    "size": "100ml",
+    "stock":"Only 4 items in stock!",
+    "type": "Eau de Toilette",
+    "image": "/images/men/acqua-di-gio.webp",
+    "description": "An aquatic and masculine fragrance with marine and citrus notes."
+  },
+  {
+    "id": 34,
+    "name": "Y Le Parfum",
+    "brand": "Yves Saint Laurent",
+    "price": 118.00,
+    "size": "100ml",
+    "stock":"Only 7 items in stock!",
+    "type": "Parfum",
+    "image": "/images/men/y-le-parfum.webp",
+    "description": "A deep, intense scent blending geranium, cedarwood, and lavender."
+  },
+  {
+    "id": 35,
+    "name": "1 Million",
+    "brand": "Paco Rabanne",
+    "price": 88.00,
+    "size": "100ml",
+    "stock":"Only 9 items in stock!",
+    "type": "Eau de Toilette",
+    "image": "/images/men/1-million.jpeg",
+    "description": "A spicy and leathery fragrance in a gold bar bottle."
+  },
+ 
+  {
+    "id": 37,
+    "name": "Invictus",
+    "brand": "Paco Rabanne",
+    "price": 90.00,
+    "size": "100ml",    
+    "stock":"Only 1 item in stock!",
+    "type": "Eau de Toilette",
+    "image": "/images/men/invictus.webp",
+    "description": "A fresh, sporty scent combining marine notes and ambergris."
+  },
+  {
+    "id": 38,
+    "name": "Boss Bottled",
+    "brand": "Hugo Boss",
+    "price": 78.00,
+    "size": "100ml",
+    "stock":"Only 7 items in stock!",
+    "type": "Eau de Toilette",
+    "image": "/images/men/boss-bottled.jpeg",
+    "description": "A classic and masculine fragrance with apple and woody notes."
+  },
+  {
+    "id": 39,
+    "name": "The One for Men",
+    "brand": "Dolce & Gabbana",
+    "price": 98.00,
+    "size": "100ml",
+    "stock":"Only 4 items in stock!",
+    "type": "Eau de Parfum",
+    "image": "/images/men/the-one.jpg",
+    "description": "An oriental spicy fragrance with notes of tobacco and amber."
+  },
+  {
+    "id": 40,
+    "name": "Terre d'Hermès",
+    "brand": "Hermès",
+    "price": 105.00,
+    "size": "100ml",
+    "stock":"Only 9 items in stock!",
+    "type": "Eau de Toilette",
+    "image": "/images/men/terre-dhermes.jpeg",
+    "description": "A woody and mineral fragrance for the grounded man."
+  },
+  {
+    "id": 41,
+    "name": "Luna Rossa Carbon",
+    "brand": "Prada",
+    "price": 99.00,
+    "size": "100ml",
+    "stock":"Only 3 items in stock!",
+    "type": "Eau de Toilette",
+    "image": "/images/men/luna-rossa-carbon.jpg",
+    "description": "A fresh and metallic fragrance with notes of bergamot and patchouli."
+  },
+  {
+    "id": 42,
+    "name": "Aventus",
+    "brand": "Creed",
+    "price": 350.00,
+    "size": "100ml",
+    "stock":"Only 5 items in stock!",
+    "type": "Eau de Parfum",
+    "image": "/images/men/aventus.webp",
+    "description": "A luxurious fragrance with pineapple, birch, and oak moss."
+  },
+  {
+    "id": 44,
+    "name": "Eros",
+    "brand": "Versace",
+    "price": 89.00,
+    "size": "100ml",
+    "stock":"Only 4 items in stock!",
+    "type": "Eau de Toilette",
+    "image": "/images/men/eros.jpeg",
+    "description": "A passionate fragrance with mint, green apple, and tonka bean."
+  },
+  {
+    "id": 45,
+    "name": "Explorer",
+    "brand": "Montblanc",
+    "price": 75.00,
+    "size": "100ml",
+    "stock":"Only 8 items in stock!",
+    "type": "Eau de Parfum",
+    "image": "/images/men/explorer.jpeg",
+    "description": "A woody-aromatic scent with bergamot and leather accords."
+  }
+]
+}
